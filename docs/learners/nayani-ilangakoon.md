@@ -6,15 +6,15 @@ Please edit this file with your own details.
 ---
 
 ## About Me
-- **Name:** Your full name  
-- **Affiliation:** Your institution or organization  
-- **Email:** your@email.edu  
+- **Name:** Nayani Ilangakoon  
+- **Affiliation:** CIRES Earth Lab, University of Colorado Boulder 
+- **Email:** ginikanda.ilangakoon@colorado.edu.edu  
 
 ## Research Interests
-Write 2–3 sentences about your research focus, or what you are excited to learn in this workshop.  
+I study fost wildfire recovery and ecosystem transformations.   
 
 ## Fun Fact
-Share one fun fact about yourself!  
+I love travelling, cooking, and spending time with my family!  
 
 ---
 
